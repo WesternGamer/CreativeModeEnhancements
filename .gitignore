@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Bin64
+/ClientPlugin/bin/Debug
+/ClientPlugin/obj
+/packages/Lib.Harmony.2.2.2
+/.vs
